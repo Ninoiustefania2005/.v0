@@ -1,5 +1,4 @@
-            )}
-            <div className="space-y-2">
+                   <div className="space-y-2">
               <Label htmlFor="email">Email</Label>
               <Input
                 id="email"
